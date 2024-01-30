@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+table{
+border:2px solid;
+border-color:silver black black silver; background-color:yellow;
+}
+th,td{
+	oadding:10px;
+	text-align:left;
+	border:2px solid;
+	border-color:black silver silver black
+}
+th{
+
+}
+caption{
+	caption-side:top;
+	font-weight:bold;
+	font-size:1.2em;
+	margin-bottom:10px;
+}
