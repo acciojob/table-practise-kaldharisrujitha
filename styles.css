@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
 table{
 border:1px solid;
-border-color:silver black black silver; background-color:yellow;
+border-color:rgb(0,0,0); background-color:yellow;
 }
 th,td{
 	oadding:10px;
 	text-align:left;
 	border:1px solid;
-	border-color:black silver silver black
+	border-color:black silver silver black;
 }
 th{
 
